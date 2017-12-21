@@ -1,0 +1,154 @@
+nav
+{
+    width: 100%;
+    background-color: #fb9101;
+}
+nav h2
+{
+    color: #ffffff;
+    font-size: 25px;
+    margin-left: 50px;
+}
+nav h2 small
+{
+    color: #fdc254;
+     margin-left: 50px;
+}
+.fixedheader
+ {
+    position: fixed ! important;
+    top:0; 
+    left:0;
+    width: 100%; 
+    z-index: 1;
+}
+section
+{
+    width: 100%;
+}
+.Storylist
+{
+    height: 50px;
+    background-color: #f6f6f6;
+    margin-bottom: 1px;
+}
+.Storylist h5
+{
+    float: left;
+    margin-left: 10px;
+
+}
+.Storylist h5:hover
+{
+    color: blue;
+}
+.Storylist span
+
+{
+    margin-top: 10px;
+    float: left;
+    width: 30px;
+    height: 30px;
+    padding: 4px 6px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 25px;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #fb9101;
+    border-radius: 50px;
+    
+}
+.Storylist p
+{
+    float: left;
+    margin-left: 10px;
+    position: absolute;
+    top: 30px;
+    left: 55px;
+    opacity: 0.6;
+}
+footer
+{
+    height: 20px;
+    background-color: #e6e6e6;
+    text-align:center;
+}
+footer h5
+{
+    margin-top: 10px;
+}
+
+/*//newscomment*/
+.commentbody
+{
+    margin-left: 20px;
+}
+.newscomment {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: white;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.newscomment a 
+{
+    padding: 8px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    display: block;
+    transition: 0.3s;
+}
+
+.newscomment a:hover, .newscomment a:focus
+ {
+    color: #fff;
+}
+
+.newscomment .closebtn {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    font-size: 30px;
+}
+.commentheader
+{
+    width: 100%;
+    background-color: #fb9101;
+    height: 70px;
+    margin-top: -10px;
+}
+.commentheader h5
+{
+    line-height: 60px;
+    margin-left: 50px;
+    color: #fff;
+}
+.navbottom
+{
+    height: 30px;
+    background-color: #fcc200;
+}
+.navbottom h5
+{
+    line-height: 5px;
+    color: black;
+    opacity: 0.7;
+}
+.storysite
+{
+    background-color: #fa9200;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+.col-md-3 h4
+{
+    margin-top: 40px;
+}

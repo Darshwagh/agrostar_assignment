@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html ng-app="mystories">
+	<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script src="lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-ui/jquery-ui.js"></script>
+    <script type="text/javascript" src="lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="script/hackernews.js"></script>
+    <script type="text/javascript" src="script/hackercomment.js"></script>
+	</head>
+  <body data-ng-controller="topstoriesCtrl" data-ng-app="myApp" data-ng-init='init()'>
+    <div class="container-fluid">
+      <div class="row">
+        <header class="HackerNewsheader">
+          <nav class="nav">
+            <h2>Hacker News<small><br>Top Stories</small></h2>
+          </nav>
+        </header>
+        <section class="topstories">          
+          <div class="col-md-12 Storylist"
+          ng-click="getCommentsForPost(Story.kids)"
+          data-ng-repeat="Story in Stories">
+          <span class="score">{{Story.score}}</span>          
+            <h5 onclick="openNav()"><b>{{Story.title}}</b></h5><br>
+            <p><small>{{Story.by}},<var>{{d}}</var> hours ago</small></p>
+          </div>
+        </section>
+        <footer>
+          <h5>Powered by the <b>Hacker News API</b></h5>
+        </footer>
+      </div>
+    </div>  
+<!-- Hackernews comment page -->
+
+    <div id="commentpage" class="newscomment">
+     
+      <div class="container-fluid">
+        <div class="row">
+          <header class="commentheader">
+            <nav class="commentnav">
+              <a class="closebtn" onclick="closeNav()">&times;</a>
+              <h5><b>GNUstep LiveCD 2017</b></h5>
+            </nav>
+            <div class="col-md-12 navbottom">
+              <h5>Posted by Nekit1234007,9 hours ago</h5>
+            </div>
+          </header>
+          <div class="col-md-12 commentbody">
+            <div class="col-md-3">
+              <button type="button" class="storysite">Visit Site</button>
+              <h4>Comments</h4>
+            </div>
+            <div class="col-md-9"></div>
+            <div class="col-md-12" ng-repeat="comment in allComments">
+              <h6><b>{{comment.by}} ,8hours agro</b></h6>
+              <p>{{comment.text}}</p>
+            </div>   
+          </div>
+        </div>       
+      </div>
+  </div>
+</div>   
+  </body>
+</html>

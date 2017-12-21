@@ -1,0 +1,710 @@
+    1  cd
+    2  sudo vim ~/.zshrc
+    3  sudo gedit ~/.zshrc
+    4  pwd
+    5  cd ..
+    6  cd
+    7  sudo vim ~/.zshrc
+    8  sudo apt-get install vi
+    9  sudo apt-get install vim
+   10  cd /home/ubuntu/Project
+   11  sudo vim ~/.zshrc
+   12  chsh -s /bin/bash
+   13  cd
+   14  ls
+   15  cd Desktop/reporting
+   16  git branch
+   17  sudo apt-get install git-flow
+   18  git init
+   19  cd ..
+   20  mkdir workspace
+   21  cd workspace
+   22  git clone https://PrashantWagh@bitbucket.org/PrashantWagh/reports-ui.git
+   23  sudo vim ~/.zshrc
+   24  git flow init
+   25  git config --global user.email "prashant.wagh@agrostar.in"
+   26  git config --global user.name "Prashant"
+   27  git flow init
+   28  ls
+   29  cd reports-ui
+   30  git flow init
+   31  git checkout -b local-storage
+   32  ls
+   33  vim src/app/css/report.css 
+   34  gst
+   35  git status
+   36  git diff src/app/css/report.css
+   37  gco.
+   38  gco .
+   39  ls -a
+   40  git status
+   41  git diff src/app/reportlist.html
+   42  gst
+   43  gco develop
+   44  pwd
+   45  gco local-storage
+   46  gst
+   47  gco develop
+   48  gst
+   49  gco local-storage
+   50  gst
+   51  git add .
+   52  git commit -m "Demo string is added"
+   53  ggpush
+   54  gco develop
+   55  gco local-storage
+   56  gst
+   57  ls
+   58  vim src/app/css/report.css
+   59  git stutus
+   60  git status
+   61  gco develop
+   62  gco local-storage
+   63  gco develop
+   64  git status
+   65  git add .
+   66  ggpush
+   67  git status
+   68  git add .
+   69  git commit -m "change model layout style"
+   70  ggpush
+   71  git status
+   72  git add .
+   73  git commit -m "remove some bugs"
+   74  ggpush
+   75  gco local-storage
+   76  gco.
+   77  gco develop
+   78  gco local-storage
+   79  git init
+   80  gco local-storage
+   81  git branch -a
+   82  git fetch -a
+   83  cd ..
+   84  ll
+   85  cd ubuntu/Desktop/workspace
+   86  cd reports-ui
+   87  pwd
+   88  cd reports-ui
+   89  git branch -a
+   90  git fetch -a
+   91  cd ..
+   92  cd reports-ui
+   93  ll
+   94  cd ubuntu/Desktop/Angular-xeditable\ __\ Edit\ in\ place\ for\ AngularJS_files/w
+   95  cd ubuntu/Desktop/workspace
+   96  cd reports-ui
+   97  cd /home/ubuntu
+   98  ipconfig
+   99  cd .
+  100  cd
+  101  sudo su
+  102  ls
+  103  cd
+  104  cd Desktop
+  105  ls
+  106  cd Project
+  107  ls
+  108  scp src nirmal@10.70.2.42
+  109  scp -R src nirmal@10.70.2.42
+  110  scp -r src nirmal@10.70.2.42
+  111  scp -r src nirmal@10.70.2.42:
+  112  cd /home/ubuntu
+  113  cd ubuntu/Desktop/workspace
+  114  cd /home/ubuntu
+  115  gco local-storage
+  116  cd .
+  117  cd /home/ubuntu
+  118  cd .
+  119  cd Desktop
+  120  cd .
+  121  cd /home/ubuntu
+  122  sudo su
+  123  node
+  124  npm
+  125  npm -v
+  126  node -v
+  127  npm install -g http-server
+  128  sudo npm install -g http-server
+  129  ..
+  130  pwd
+  131  cd
+  132  Desktop/workspace/reports-ui/
+  133  ll
+  134  cd src
+  135  ll
+  136  app
+  137  ll
+  138  mv ~/Desktop/workspace/reports-ui index.html
+  139  mv ~/Desktop/workspace/reports-ui/ index.html
+  140  ll
+  141  http-server -o .
+  142  ..
+  143  Desktop/workspace/reports-ui
+  144  ll
+  145  cd src/app
+  146  ll
+  147  http-server -o .
+  148  pwd
+  149  http-server -o .
+  150  ll
+  151  http-server -o .
+  152  sudo su
+  153  http-server -o .
+  154  cd src/app
+  155  Desktop/workspace/reports-ui
+  156  cd src/app
+  157  http-server -o .
+  158  Desktop/workspace/reports-ui
+  159  cd src/app
+  160  http-server -o .
+  161  cd src/app
+  162  ll
+  163  Desktop/workspace/reports-ui
+  164  cd src/app
+  165  ll
+  166  http-server -o .
+  167  cd Desktop/workspace
+  168  cd reports-ui
+  169  src/app
+  170  http-server -o .
+  171  cd Desktop/workspace/reports-ui/src/app
+  172  http-server -o .
+  173  history
+  174  http-server -o .
+  175  cd Desktop/workspace/reports-ui/src/app
+  176  http-server -o .
+  177  cd Desktop/workspace/reports-ui/src/app
+  178  http-server -o .
+  179  cd Desktop/workspace/reports-ui/src/app
+  180  cd Desktop/workspace/
+  181  cd /home/ll
+  182  cd /home/ubuntu/Desktop/workspace
+  183  cd /home/ubuntu/Desktop/workspace/reports-ui
+  184  add .
+  185  git add .
+  186  git commit -m "some changes"
+  187  ggpush
+  188  cd /home/ubuntu/Desktop/workspace/reports-ui
+  189  http-server -o .
+  190  cd Desktop/workspace/reports-ui/src/app
+  191  http-server -o .
+  192  cd Desktop/workspace/reports-ui/src/app
+  193  http-server -o .
+  194  cd Desktop/workspace/reports-ui/src/app
+  195  http-server -o .
+  196  cd Desktop/workspace/reports-ui/src/app
+  197  http-server -o .
+  198  cd Desktop/workspace/reports-ui/src/app
+  199  http-server -o .
+  200  cd Desktop/workspace/reports-ui/src/app
+  201  http-server -o .
+  202  cd Desktop/workspace/reports-ui/src/app
+  203  http-server -o .
+  204  cd Desktop/workspace/reports-ui/src/app
+  205  git add .
+  206  git commit -m "localstorage changes "
+  207  ggpush
+  208  http-server -o .
+  209  git add .
+  210  git commit -m "localstorage changes "
+  211  ggpush
+  212  cd Desktop/workspace/reports-ui/src/app
+  213  git add .
+  214  http-server -o .
+  215  cd Desktop/workspace/reports-ui/src/app
+  216  http-server -o .
+  217  cd Desktop/workspace/reports-ui/src/app
+  218  http-server -o .
+  219  cd Desktop/workspace/reports-ui/src/app
+  220  git add .
+  221  git commit -m "edit local storage data "
+  222  ggpush
+  223  http-server -o .
+  224  git add .
+  225  git commit -m "delete local storage data "
+  226  ggpush
+  227  cd Desktop/workspace/reports-ui/src/app
+  228  git add .
+  229  cd Desktop/workspace/reports-ui/src/app
+  230  http-server -o .
+  231  cd Desktop/workspace/reports-ui/src/app
+  232  http-server -o .
+  233  git branch angular-validation
+  234  git checkout -b angular-validation
+  235  checkout
+  236  git checkout -b local-storage
+  237  gco
+  238  git add .
+  239  git status
+  240  git add .
+  241  git status
+  242  gco.
+  243  exit
+  244  cd Desktop/workspace/reports-ui/src/app
+  245  gco.
+  246  gco
+  247  gst
+  248  gco devlop
+  249  gco develop
+  250  git commit -m "some local-storage change"
+  251  ggpush
+  252  gco angular-validation
+  253  cd Desktop/workspace/reports-ui/src/app
+  254  http-server -o .
+  255  cd Desktop/workspace/reports-ui/src/app
+  256  git add .
+  257  git status
+  258  git add/rm reportdown
+  259  gco develop
+  260  gst
+  261  git stash pop
+  262  git stash
+  263  git branch
+  264  gco local-storage
+  265  git branch -b checkout feature/angular-validation
+  266  git -b checkout feature/angular-validation
+  267  git checkout -b feature/angular-validation
+  268  git stash pop
+  269  gitk
+  270  sudo apt-get install gitk
+  271  gitk
+  272  git checkout -d angular-validation
+  273  git branch -d angular-validation
+  274  http-server -o .
+  275  cd Desktop/workspace/reports-ui/src/app
+  276  http-server -o .
+  277  cd Desktop/workspace/reports-ui/src/app
+  278  git add .
+  279  git commit -m "remove bugs "
+  280  ggpush
+  281  git add .
+  282  git commit -m "remove bugs "
+  283  ggpush
+  284  git clone https://PrashantWagh@bitbucket.org/agrostar/lmd-ui.git
+  285  cd Desktop/workspace/reports-ui/src/app
+  286  http-server -o .
+  287  git clone https://PrashantWagh@bitbucket.org/agrostar/crm-ui.git
+  288  cd Desktop/workspace/reports-ui/src/app
+  289  git add .
+  290  git commit -m "add validation required "
+  291  ggpush
+  292  cd Desktop/workspace/reports-ui/src/app
+  293  http-server -o .
+  294  cd Desktop/workspace/reports-ui/src/app
+  295  git add .
+  296  git commit -m "add validation required "
+  297  ggpush
+  298  cd Desktop/workspace/reports-ui/src/app
+  299  http-server -o .
+  300  cd Desktop/workspace/reports-ui/src/app
+  301  http-server -o .
+  302  cd Desktop/workspace/reports-ui/src/app
+  303  cd ubuntu
+  304  cd ./ubuntu
+  305  history
+  306  cd /home/ubuntu
+  307  cd ubuntu/Desktop
+  308  cd /home/ubuntu
+  309  cd ubuntu/Desktop
+  310  git add .
+  311  git commite -m"change some validation"
+  312  git commit -m"change some validation"
+  313  ggpush
+  314  http-server -o .
+  315  cd Desktop/workspace/reports-ui/src/app
+  316  http-server -o .
+  317  git add .
+  318  git commit -m"remove some bugs"
+  319  ggpush
+  320  ping 123.252.249.9
+  321  ping 182.75.68.145
+  322  git add .
+  323  git commit -m"remove some bug"
+  324  ggpush
+  325  http-server -o .
+  326  cd Desktop/workspace/reports-ui/src/app
+  327  http-server -o .
+  328  cd Desktop/workspace/reports-ui/src/app
+  329  git add .
+  330  git commit -m"add tab"
+  331  ggpush
+  332  cd Desktop/workspace/reports-ui/src/app
+  333  http-server -o .
+  334  cd Desktop/workspace/reports-ui/src/app
+  335  http-server -o .
+  336  ping 123.252.249.9
+  337  ping 182.75.68.145
+  338  http-server -o .
+  339  cd Desktop/workspace/reports-ui/src/app
+  340  git add .
+  341  git status
+  342  git commit -m"add pagination"
+  343  ggpush
+  344  cd Desktop/workspace/reports-ui/src/app
+  345  http-server -o .
+  346  http-server -o 
+  347  cd Desktop/workspace/reports-ui/src/app
+  348  http-server -o 
+  349  cd Desktop/workspace/reports-ui/src/app
+  350  http-server -o 
+  351  ping 123.252.249.9
+  352  ping 182.75.68.145
+  353  cd Desktop/workspace/reports-ui/src/app
+  354  http-server -o 
+  355  cd Desktop/workspace/reports-ui/src/app
+  356  http-server -o 
+  357  ifconfig
+  358  ping 10.70.5.126
+  359  ping 8.8.8.8
+  360  ping in.yahoo.com
+  361  ping 106.10.178.36
+  362  ifconfig
+  363  ping 10.70.5.126
+  364  ipconfig
+  365  ifconfig
+  366  cd && wget -O wps-office.deb http://kdl.cc.ksosoft.com/wps-community/download/a21/wps-office_10.1.0.5672\~a21_amd64.deb
+  367  cd /h
+  368  cd /home/ubuntu
+  369  gco
+  370  cd /home/ubuntu
+  371  cd && wget -O wps-office.deb http://kdl.cc.ksosoft.com/wps-community/download/a21/wps-office_10.1.0.5672\~a21_amd64.deb
+  372  sudo su
+  373  sudo su 
+  374  sudo su
+  375  ifconfig
+  376  ping google.com
+  377  ifconfig
+  378  ping 219.91.129.65
+  379  ping 182.75.46.5
+  380  ifconfig
+  381  ping 182.75.46.5
+  382  ping 219.91.129.65
+  383  cd Desktop/workspace/reports-ui/src/app
+  384  http-server -o 
+  385  cd Desktop/workspace/reports-ui/src/app
+  386  http-server -o 
+  387  cd Desktop/workspace/reports-ui/src/app
+  388  http-server -o 
+  389  ping 123.252.249.9
+  390  ping 182.75.68.145
+  391  ifcnfig
+  392  ifcofig
+  393  ifconfig
+  394  ping 192.168.2.1
+  395  ping 123.252.249.9
+  396  ping 182.75.68.145
+  397  ping 123.252.249.9
+  398  ssh root@192.168.2.8
+  399  ping 123.252.249.9
+  400  ping 115.112.36.33
+  401  ping 182.75.68.145
+  402  ping 123.252.249.9
+  403  ping 182.75.68.145
+  404  sudo dmidecode -t 2
+  405  ping 192.168.2.4
+  406  sudo dmidecode | grep Product
+  407  sudo apt-get install lshw
+  408  sudo yum install lshw
+  409  sudo lshw
+  410  cd && sudo lshw -html > hardware_info.html
+  411  lshw-gui
+  412  dmidecode | grep -A3 '^System Information'
+  413  ifconfig
+  414  ping 123.252.249.9
+  415  ping 182.75.68.145
+  416  sudo apt-get install hardinfo
+  417  sudo lshw 
+  418  sudo dmidecode -t 2
+  419  sudo add-apt-repository -y ppa:i-nex-development-team/stable
+  420  sudo apt-get update
+  421  sudo apt-get install i-nex
+  422  sudo add-apt-repository ppa:cpug-devs/ppa
+  423  sudo apt-get update
+  424  sudo apt-get install cpu-g
+  425  sudo dmidecode -t 2
+  426  cd Desktop/workspace/reports-ui/src/app
+  427  http-server -o 
+  428  cd Desktop/workspace/reports-ui/src/app
+  429  git add .
+  430  git status
+  431  git commit -m"some changes"
+  432  ggpush
+  433  ping 192.168.2.8
+  434  192.168.2.10
+  435  ping 192.168.2.10
+  436  ping 10.70.1.1
+  437  ping 10.70.1.2
+  438  ping 123.252.249.9
+  439  ping 182.75.68.145
+  440  ping 10.70.1.1
+  441  ping V
+  442  ping 10.70.1.2
+  443  ping 192.168.2.21
+  444  ping 123.252.249.9
+  445  ping 182.75.68.145
+  446  ping 10.70.1.1
+  447  ping 10.70.1.2
+  448  ping 192.168.2.8
+  449  ping 10.70.3.20
+  450  ping 14.140.121.218
+  451  ping 123.252.249.9
+  452  ping 182.75.68.145
+  453  ping 10.70.1.1
+  454  ping 10.70.1.2
+  455  ping 14.140.121.218
+  456  ping 123.252.249.9
+  457  ping 182.75.68.145
+  458  ping 10.70.1.1
+  459  ping 10.70.1.2
+  460  ping 14.140.121.217
+  461  ifconfig
+  462  ping 10.70.4.1
+  463  ping 123.252.249.9
+  464  ping 182.75.68.145
+  465  ping 10.70.1.1
+  466  ping 10.70.1.2
+  467  Ping 14.140.121.217
+  468  ping 123.252.249.9
+  469  ping 182.75.68.145
+  470  ping 10.70.1.1
+  471  ping 10.70.1.2
+  472  Ping 14.140.121.217
+  473  ping 14.140.121.217
+  474  ping 123.252.249.9
+  475  ping 182.75.68.145
+  476  ping 10.70.1.1
+  477  ping 10.70.1.2
+  478  Ping 14.140.121.217
+  479  ping 14.140.121.217
+  480  ping 123.252.249.9
+  481  ping 182.75.68.145
+  482  ping 10.70.1.1
+  483  ping 10.70.1.2
+  484  Ping 14.140.121.217
+  485  ping 14.140.121.217
+  486  ping 123.252.249.9
+  487  ping 10.70.1.1
+  488  ping 10.70.1.2
+  489  ping 14.140.121.217
+  490  ping 123.252.249.9
+  491  ping 182.75.68.145
+  492  ping 10.70.1.1
+  493  ping 10.70.1.2
+  494  ping 14.140.121.217
+  495  ping 123.252.249.9
+  496  ping 182.75.68.145
+  497  ping 10.70.1.1
+  498  ping 10.70.1.2
+  499  ping 14.140.121.217
+  500  ping 123.252.249.9
+  501  ping 182.75.68.145
+  502  ping 10.70.1.1
+  503  ping 10.70.1.2
+  504  ping 14.140.121.217
+  505  ping 123.252.249.9
+  506  ping 182.75.68.145
+  507  ping 10.70.1.1
+  508  ping 10.70.1.2
+  509  ping 14.140.121.217
+  510  # sudo apt-get install putty
+  511  cd ubuntu
+  512  cd /home/ubuntu
+  513  # sudo apt-get install putty
+  514  ping 192.168.2.22
+  515  ping 123.252.249.9
+  516  ping 182.75.68.145
+  517  ping 10.70.1.1
+  518  ping 10.70.1.2
+  519  ping 14.140.121.217
+  520  sudo apt-add-repository ppa:sylvain-pineau/kazam
+  521  sudo apt-get update
+  522  sudo apt-get install kazam 
+  523  ping 123.252.249.9
+  524  ping 182.75.68.145
+  525  ping 10.70.1.1
+  526  ping 10.70.1.2
+  527  ping 14.140.121.217
+  528  ifconfig
+  529  ping 123.252.249.9
+  530  ping 182.75.68.145
+  531  ping 10.70.1.1
+  532  ping 10.70.1.2
+  533  ping 14.140.121.217
+  534  ping 10.70.3.20 
+  535  ping 123.252.249.9
+  536  ping 182.75.68.145
+  537  ping 10.70.1.1
+  538  ping 10.70.1.2
+  539  ping 14.140.121.217
+  540  ifconfig
+  541  ping 123.252.249.9
+  542  ping 182.75.68.145
+  543  ping 10.70.1.1
+  544  ping 10.70.1.2
+  545  ping 14.140.121.217
+  546  ping 192.168.2.11
+  547  ping 123.252.249.9
+  548  ping 182.75.68.145
+  549  ping 10.70.1.1
+  550  ping 10.70.1.2
+  551  ping 14.140.121.217
+  552  ping 192.168.2.25
+  553  ping 123.252.249.9
+  554  ping 182.75.68.145
+  555  ping 10.70.1.1
+  556  ping 10.70.1.2
+  557  ping 14.140.121.217
+  558  sudo apt-get install python-software-properties python g++ make
+  559  sudo add-apt-repository ppa:chris-lea/node.js
+  560  sudo apt-get update
+  561  sudo apt-get install nodejs
+  562  ionic
+  563  sudo su
+  564  ping 123.252.249.9
+  565  ping 182.75.68.145
+  566  ping 10.70.1.1
+  567  ping 10.70.1.2
+  568  ping 14.140.121.217
+  569  ping 8.8.8.8
+  570  sudo apt-get install python-software-properties python g++ make
+  571  sudo apt-get -f install python-software-properties python g++ make
+  572  sudo add-apt-repository ppa:chris-lea/node.js
+  573  suo ap-get update
+  574  sudo ap-get update
+  575  sudo apt-get update
+  576  sudo apt-get install nodejs
+  577  sudo npm install -g cordova
+  578  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  579  sudo apt-get install curl
+  580  sudo apt-get -f install curl
+  581  sudo apt-get -f install
+  582  sudo apt-get install curl
+  583  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  584  sudo curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  585  sudo apt-get install -y nodejs
+  586  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  587  sudo apt-get install -y nodejs
+  588  npm install -g cordova
+  589  sudo apt-get install cordova
+  590  zsh
+  591  sudo apt-get install -y nodejs
+  592  sudo apt-get install cordova
+  593  npm install -g cordova
+  594  ping 123.252.249.9
+  595  ping 182.75.68.145
+  596  ping 10.70.1.1
+  597  ping 10.70.1.2
+  598  ping 14.140.121.217
+  599  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  600  sudo cp /etc/apt/sources.list ~/ 
+  601  sudo wget "http://pastebin.com/raw.php?i=uzhrtg5M" -O /etc/apt/sources.list
+  602  sudo apt-get update
+  603  sudo rm /etc/apt/sources.list.d/ubuntu-extras.list
+  604  sudo apt-get update
+  605  ubuntu-extras-keyring
+  606  sudo add-apt-repository -r ppa:marlin-devs/marlin-daily
+  607  sudo add-apt-repository -r ppa:tiheum/equinox
+  608  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  609  wget https://launchpad.net/\~fossfreedom/+archive/packagefixes/+files/banish404_0.1-4_all.deb
+  610  sudo dpkg -i banish404_0.1-4_all.deb
+  611  sudo add-apt-repository ppa:fossfreedom/packagefixes
+  612  sudo apt-get update
+  613  sudo apt-get install banish404
+  614  apt-get -f install
+  615  sudo su
+  616  sudo software-properties-gtk
+  617  sudo apt-get remove --purge google-chrome-stable
+  618  sudo apt-get update && sudo apt-get dist-upgrade -y
+  619  ping 123.252.249.9
+  620  ping 182.75.68.145
+  621  ping 10.70.1.1
+  622  ping 10.70.1.2
+  623  ping 14.140.121.217
+  624  ping 192.169.2.23
+  625  ping 192.168.2.23
+  626  ping 123.252.249.9
+  627  ping 182.75.68.145
+  628  ping 10.70.1.1
+  629  ping 10.70.1.2
+  630  ping 14.140.121.217
+  631  ping 192.168.2.23
+  632  ping 192.168.2.22
+  633  ping 192.168.2.23
+  634  sudo dpkg-reconfigure -a
+  635  exec sudo -i
+  636  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  637  sudo apt-get install -y nodejs
+  638  npm install check-node-version
+  639  cd /home/ubuntu
+  640  cd ~
+  641  cd /roo
+  642  cd /home/ubuntu
+  643  cd /root
+  644  cd /ubuntu
+  645  cd $home
+  646  cd ~/
+  647  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  648  sudo apt-get install -y nodejs
+  649  npm install check-node-version
+  650  cd ~/
+  651  sudo apt-get remove <application_name>
+  652  sudo apt-get remove <node.js>
+  653  sudo apt-get remove <node js>
+  654  dpkg --list
+  655  sudo apt-get install --reinstall ubuntu-desktop
+  656  clone
+  657  ping 123.252.249.9
+  658  ping 182.75.68.145
+  659  ping 10.70.1.1
+  660  ping 10.70.1.2
+  661  ping 14.140.121.217
+  662  git clone
+  663  https://PrashantWagh@bitbucket.org/PrashantWagh/reports-ui.git
+  664  git clone https://PrashantWagh@bitbucket.org/PrashantWagh/reports-ui.git
+  665  cd
+  666  cd /home/ubuntu
+  667  cd Desktop/workspace/reports-ui/src/app
+  668  cd Desktop
+  669  cd Desktopls
+  670  cd Desktop ls
+  671  cd Desktop 
+  672  cd Desktop/M
+  673  cd Desktop/My
+  674  cd Desktop/MyProject
+  675  cd MyProject
+  676  ls
+  677  git clone https://PrashantWagh@bitbucket.org/PrashantWagh/reports-ui.git
+  678  git clone https://github.com/wcember/HackerNews-API.git
+  679  ping 123.252.249.9
+  680  ping 182.75.68.145
+  681  ping 10.70.1.1
+  682  cd
+  683  cd ..
+  684  cd ubuntu/AgroStar\ Assgnment
+  685  pwd
+  686  cd ..
+  687  cd
+  688  rm .git
+  689  rm -rf .git
+  690  cd AgroStar\ Assgnment
+  691  git init
+  692  gst
+  693  git add .
+  694  git commit -"initial push"
+  695  git commit -m"initial push"
+  696  ggpush
+  697  git remote add origin git@github.com:Darshwagh/Hacker-News.git
+  698  ggpush
+  699  git remote add origin https://github.com/Darshwagh/Hacker-News.git
+  700  git remote remove origin git@github.com:Darshwagh/Hacker-News.git
+  701  git remote add origin https://github.com/Darshwagh/Hacker-News.git
+  702  git push
+  703  git remote add origin https://github.com/Darshwagh/Hacker-News.git
+  704  git remote remove origin
+  705  git remote add origin https://github.com/Darshwagh/Hacker-News.git
+  706  ggpush
+  707  ggpull
+  708  ggpush
+  709  history
+  710  history |more
